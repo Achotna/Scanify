@@ -2,6 +2,8 @@
 
 **Authors:** Antonina Savchenko & Elisa Salignon
 
+>>> [A little video] (https://github.com/Achotna/Scanify/blob/main/Scanify/Scanify_video.mp4)
+
 Scanify is a project developed for the **Trophées NSI competition**.
 
 The application allows users to analyze receipts and better understand their expenses. It uses OCR to extract information from receipt images and then generates graphs to make spending easier to visualize and manage.
