@@ -2,7 +2,7 @@
 
 **Authors:** Antonina Savchenko & Elisa Salignon
 
->>> [A little video] (https://github.com/Achotna/Scanify/blob/main/Scanify/Scanify_video.mp4)
+》》[A little video](https://github.com/Achotna/Scanify/blob/main/Scanify/Scanify_video.mp4)
 
 Scanify is a project developed for the **Trophées NSI competition**.
 
